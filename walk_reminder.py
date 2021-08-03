@@ -3,6 +3,10 @@ import webbrowser
 import requests
 import random 
 
+"""
+A reminder that that tells you to go for a walk when the countdown timer reaches zero
+
+"""
 
 def countdown(time_input): 
     """Counts down 
