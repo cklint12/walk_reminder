@@ -48,7 +48,7 @@ def launch_gif():
 
 if __name__=='__main__':
     while True: 
-        countdown(50)
+        countdown(30)
         launch_gif()
 
 
